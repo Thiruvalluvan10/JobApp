@@ -55,5 +55,5 @@ The project is organized into a structured format, adhering to best practices fo
 ## Getting Started
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/JobApp.git
+   git clone https://github.com/Thiruvalluan10/JobApp.git
    cd JobApp
